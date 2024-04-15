@@ -33,7 +33,7 @@
     transition: transform 0.8s, opacity 1.5s;
 }
 .home {
-    background-image:  url("../img/Semtitulo-1.webp");
+    background-image:  url("../img/fundo2.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
